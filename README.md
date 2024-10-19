@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm a Passionate **Network Engineer**, **Linux Sys
 ## 🌱 Currently Learning
 - Advanced Docker, Jenkins, Teraform, and k8s
 - Offensive Security (Red Teaming Techniques)
-- Cloud Security & Automation
+- Automation
 
 ---
 
