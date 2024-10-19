@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there! 👋 I'm Fahmi Kemal 👨‍💻
 
-Welcome to my GitHub profile! I'm a Passionate **Network Engineer**, **Linux System Administrator**, and **Red Team Security** enthusiast, and about solving real-world challenges through technology. 🚀
+Welcome to my GitHub profile! I'm a Passionate **Network Engineer**, **Linux System Administrator**, **Red Team Security** enthusiast, and enjoy solving real-world challenges through technology.🚀
 
 ---
 
