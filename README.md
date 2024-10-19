@@ -20,7 +20,6 @@ Welcome to my GitHub profile! I'm a Passionate **Network Engineer**, **Linux Sys
 ---
 
 ## 🔧 Skills & Technologies
-- **Programming Languages:** Python, Bash
 - **Tools & Platforms:** Docker, Linux, Kali Linux
 - **Security:** Red Teaming, Ethical Hacking
 - **DevOps:** Containerization, CI/CD Pipelines, Infrastructure as Code (IaC)
