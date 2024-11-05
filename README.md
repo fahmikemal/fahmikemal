@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm a Passionate **Network Engineer**, **Linux Sys
 
 ## 📫 Get in Touch
 - LinkedIn: [Fahmi Kemal](https://www.linkedin.com/in/fahmikemal/)
-- Email: [fkr00t.pm.me](mailto:fkr00t@pm.me)
+- Email: [fahmikemall.pm.me](mailto:fahmikemall@pm.me)
 
 ---
 
