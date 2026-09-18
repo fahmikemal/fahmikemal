@@ -1,9 +1,9 @@
 <div align="center">
 
-# ⚡ Fahmi Kemal, S.Kom.
-### DevOps Engineer · Cloud & Virtualization · Cybersecurity
+# ⚡ Fahmi Kemal
+### DevOps & Systems Engineer · Cloud Infrastructure · Cybersecurity
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=DevOps+Engineer+%40+PT.+Indotek+Buana+Karya;RHCSA+%C2%B7+CEH+%C2%B7+CTIA+Certified;Cloud-Native+Infrastructure+%26+Virtualization;GitOps%2C+Private+Mesh+Networking+%26+Security)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=DevOps+%26+Cloud+Infrastructure+Engineer;Enterprise+Virtualization+%26+Hyperconverged+Systems;GitOps%2C+Private+Mesh+Networking+%26+Security;High-Performance+Open-Source+Systems+Tooling)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://kemal.id"><img src="https://img.shields.io/badge/Website-kemal.id-0ea5e9?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
@@ -20,30 +20,16 @@
 ```console
 ┌──(fahmikemal@cloud-edge)-[~]
 └─$ whoami --all
-Name            : Fahmi Kemal, S.Kom.
-Current Role    : DevOps Engineer @ PT. Indotek Buana Karya
-Education       : B.Comp.Sc. (Informatics), Universitas Muhammadiyah Jember
-Certifications  : RHCSA (Red Hat) · CEH (Ethical Hacker) · CTIA (Threat Analyst)
-Core Directives : Enterprise HCI Migration · Zero-Trust Mesh · GitOps · Systems Tooling
+Name            : Fahmi Kemal
+Specialization  : DevOps · Cloud & Virtualization · Cybersecurity · Systems Tooling
+Core Focus      : Enterprise HCI Architecture · Zero-Trust Overlay Mesh · GitOps
+Systems & Tools : Linux (RHEL/Debian) · Go · Kubernetes · Proxmox · Podman · Harvester
+Status          : Building reliable, high-availability & secure infrastructure
 ```
 
 ---
 
-### 🎖️ Official Industry Certifications
-
-<div align="center">
-
-| Badge | Certification | Credential Scope | Status |
-| :---: | :--- | :--- | :---: |
-| <img src="https://img.shields.io/badge/Red_Hat-RHCSA-EE0000?style=for-the-badge&logo=redhat&logoColor=white" height="30" /> | **Red Hat Certified System Administrator (RHCSA)** | System deployment, storage & filesystems, user/group security, service control, networking | **Active** (2023 – 2026) |
-| <img src="https://img.shields.io/badge/EC--Council-CEH-black?style=for-the-badge&logo=hackthebox&logoColor=white" height="30" /> | **Certified Ethical Hacker (CEH)** | Reconnaissance, system penetration testing, vulnerability assessment, post-exploitation | **Active** (2024 – 2027) |
-| <img src="https://img.shields.io/badge/EC--Council-CTIA-1b365d?style=for-the-badge&logo=shield&logoColor=white" height="30" /> | **Certified Threat Intelligence Analyst (CTIA)** | Threat modeling, threat intelligence lifecycle, data collection & dissemination | **Active** (2024 – 2027) |
-
-</div>
-
----
-
-### 💼 Engineering Track Record & Core Competencies
+### 💼 Engineering Architecture & Technical Competencies
 
 <table>
   <tr>
@@ -78,7 +64,7 @@ Core Directives : Enterprise HCI Migration · Zero-Trust Mesh · GitOps · Syste
       <ul>
         <li><b>Penetration Testing & Bug Bounty</b>: Web application vulnerability identification, exploitation proofs-of-concept, structured executive reports, and remediation guidance.</li>
         <li><b>Threat Detection & SIEM</b>: Enterprise threat identification and telemetry analysis utilizing <b>IBM QRadar</b>.</li>
-        <li><b>Threat Intelligence Analysis</b>: Systematic indicator collection, IOC mapping, and proactive threat modeling aligned with the CTIA framework.</li>
+        <li><b>Threat Intelligence Analysis</b>: Systematic indicator collection, IOC mapping, proactive threat modeling, and adversary behavior analysis.</li>
       </ul>
     </td>
   </tr>
@@ -150,6 +136,6 @@ Core Directives : Enterprise HCI Migration · Zero-Trust Mesh · GitOps · Syste
 ---
 
 <div align="center">
-  <sub>Engineered for reliability, resilience, and security. Open for engineering leadership, DevOps infrastructure, and cybersecurity collaborations.</sub><br>
+  <sub>Engineered for reliability, resilience, and security. Focused on modern cloud infrastructure, automation, and systems tooling.</sub><br>
   <sub>🌐 <a href="https://kemal.id">kemal.id</a> · 💼 <a href="https://linkedin.com/in/fahmikemal">linkedin.com/in/fahmikemal</a> · 📧 <a href="mailto:fahmi@kemal.id">fahmi@kemal.id</a></sub>
 </div>
