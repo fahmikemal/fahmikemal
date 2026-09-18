@@ -1,15 +1,16 @@
 <div align="center">
 
-# ⚡ Fahmi Kemal
-### DevSecOps · Low-Level Systems · Cloud-Native Infrastructure
+# ⚡ Fahmi Kemal, S.Kom.
+### DevOps Engineer · Cloud & Virtualization · Cybersecurity
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=DevSecOps+%26+Cloud-Native+Engineer;Linux+Internals+%C2%B7+systemd+%C2%B7+Podman+Quadlets;High-Performance+Tooling+in+Go+%26+Rust;Offensive+%26+Defensive+Security+Architecture)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=DevOps+Engineer+%40+PT.+Indotek+Buana+Karya;RHCSA+%C2%B7+CEH+%C2%B7+CTIA+Certified;Cloud-Native+Infrastructure+%26+Virtualization;GitOps%2C+Private+Mesh+Networking+%26+Security)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://kemal.id"><img src="https://img.shields.io/badge/Website-kemal.id-0ea5e9?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="mailto:fahmi@kemal.id"><img src="https://img.shields.io/badge/Email-fahmi%40kemal.id-38bdf8?style=flat-square&logo=mail.ru&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/fahmikemal"><img src="https://img.shields.io/badge/LinkedIn-Fahmi_Kemal-0284c7?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/Status-Building_High--Performance_Systems-10b981?style=flat-square" alt="Status" />
+  <a href="https://codeberg.org/fahmikemal"><img src="https://img.shields.io/badge/Codeberg-fahmikemal-2185d0?style=flat-square&logo=codeberg&logoColor=white" alt="Codeberg" /></a>
+  <img src="https://img.shields.io/badge/Location-Indonesia-10b981?style=flat-square" alt="Location" />
 </p>
 
 </div>
@@ -17,45 +18,67 @@
 ---
 
 ```console
-┌──(fahmikemal@production)-[~]
-└─$ uname -srmo
-Linux 6.8.0-hardened x86_64 GNU/Linux
-
-└─$ cat /etc/capabilities.d/core
-▸ Languages       : Go (Primary), Rust, Python, Bash, C
-▸ Core Focus      : Container Runtimes (Podman Quadlets), systemd Internals, Linux Namespaces
-▸ Security        : DevSecOps Automation, Threat Intelligence, Direct Syscalls & EDR Mechanics
-▸ Philosophy      : Zero-socket overhead, concurrency safety, deterministic software engineering
+┌──(fahmikemal@cloud-edge)-[~]
+└─$ whoami --all
+Name            : Fahmi Kemal, S.Kom.
+Current Role    : DevOps Engineer @ PT. Indotek Buana Karya
+Education       : B.Comp.Sc. (Informatics), Universitas Muhammadiyah Jember
+Certifications  : RHCSA (Red Hat) · CEH (Ethical Hacker) · CTIA (Threat Analyst)
+Core Directives : Enterprise HCI Migration · Zero-Trust Mesh · GitOps · Systems Tooling
 ```
 
 ---
 
-### 🛠️ Core Engineering Disciplines
+### 🎖️ Official Industry Certifications
+
+<div align="center">
+
+| Badge | Certification | Credential Scope | Status |
+| :---: | :--- | :--- | :---: |
+| <img src="https://img.shields.io/badge/Red_Hat-RHCSA-EE0000?style=for-the-badge&logo=redhat&logoColor=white" height="30" /> | **Red Hat Certified System Administrator (RHCSA)** | System deployment, storage & filesystems, user/group security, service control, networking | **Active** (2023 – 2026) |
+| <img src="https://img.shields.io/badge/EC--Council-CEH-black?style=for-the-badge&logo=hackthebox&logoColor=white" height="30" /> | **Certified Ethical Hacker (CEH)** | Reconnaissance, system penetration testing, vulnerability assessment, post-exploitation | **Active** (2024 – 2027) |
+| <img src="https://img.shields.io/badge/EC--Council-CTIA-1b365d?style=for-the-badge&logo=shield&logoColor=white" height="30" /> | **Certified Threat Intelligence Analyst (CTIA)** | Threat modeling, threat intelligence lifecycle, data collection & dissemination | **Active** (2024 – 2027) |
+
+</div>
+
+---
+
+### 💼 Engineering Track Record & Core Competencies
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h4>🐧 Linux & Container Internals</h4>
+    <td width="50%" valign="top">
+      <h4>☁️ Virtualization & Enterprise Cloud</h4>
       <ul>
-        <li>Deep integration with <b>systemd</b> generator architectures and unit lifecycle management.</li>
-        <li>Rootless container orchestration via <b>Podman Quadlets</b>, cgroups v2, and user namespaces.</li>
-        <li>Zero-socket operational designs eliminating daemon overhead.</li>
+        <li><b>OpenShift $\rightarrow$ Harvester HCI</b>: Architectural migration planning, live workload transitions, hyperconverged storage/compute configuration, and post-migration validation.</li>
+        <li><b>Kubernetes $\rightarrow$ Proxmox VE & Docker Swarm</b>: Migrated containerized workloads into high-availability VM topologies orchestrated via Docker Swarm and Kubernetes clusters.</li>
+        <li><b>Cluster Operations</b>: Proxmox VE cluster tuning, compute virtualization, and automated container lifecycle monitoring.</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
-      <h4>🛡️ DevSecOps & Platform Security</h4>
+    <td width="50%" valign="top">
+      <h4>🔄 GitOps & CI/CD Delivery</h4>
       <ul>
-        <li>Automated CI/CD security quality gates, supply chain hardening, and vulnerability scanning.</li>
-        <li>Hardened cloud-native infrastructure with <b>Terraform</b> and declarative configurations.</li>
-        <li>Offensive research & defensive engineering: threat recon, direct syscalls, and binary forensics.</li>
+        <li><b>Declarative GitOps</b>: Continuous deployment and synchronization powered by <b>Argo CD</b> and <b>Jenkins</b> pipelines.</li>
+        <li><b>Self-Hosted Code Repositories</b>: Enterprise collaboration and repository governance via <b>Gitea</b> and <b>Forgejo</b>.</li>
+        <li><b>CI/CD Security Quality Gates</b>: Automated test suites, policy enforcement, container image scanning, and release automation via GitHub Actions & GoReleaser.</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
-      <h4>⚡ High-Performance Systems Tooling</h4>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌐 Networking & Zero-Trust Mesh</h4>
       <ul>
-        <li>Modern Terminal User Interfaces (TUI) powered by <b>Bubbletea v2</b> and differential ANSI renderers.</li>
-        <li>Concurrent, race-free system utilities built in <b>Go</b> and <b>Rust</b>.</li>
-        <li>Strict automated E2E test suites with Linux pseudo-terminals (PTY) emulation.</li>
+        <li><b>Headscale Private Mesh Network</b>: WireGuard-powered zero-trust overlay network providing seamless and encrypted remote access to isolated private infrastructure.</li>
+        <li><b>Nginx Reverse Proxy & Edge Routing</b>: Multi-tenant Nginx Proxy Manager topologies routing internal microservices and domain suites safely through a single public IP.</li>
+        <li><b>Network Systems</b>: IP phone/PBX integrations, routing tables, and perimeter firewall security.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛡️ Cybersecurity & Threat Intelligence</h4>
+      <ul>
+        <li><b>Penetration Testing & Bug Bounty</b>: Web application vulnerability identification, exploitation proofs-of-concept, structured executive reports, and remediation guidance.</li>
+        <li><b>Threat Detection & SIEM</b>: Enterprise threat identification and telemetry analysis utilizing <b>IBM QRadar</b>.</li>
+        <li><b>Threat Intelligence Analysis</b>: Systematic indicator collection, IOC mapping, and proactive threat modeling aligned with the CTIA framework.</li>
       </ul>
     </td>
   </tr>
@@ -63,36 +86,36 @@ Linux 6.8.0-hardened x86_64 GNU/Linux
 
 ---
 
-### 🚀 Featured Systems & Open-Source Projects
+### 🚀 Featured Systems & Open-Source Engineering
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/fahmikemal/quadman">📦 quadman</a></h3>
-      <p><i>World-class Terminal UI for rootless & system Podman Quadlet units.</i></p>
+      <p><i>World-class Terminal UI for rootless Podman Quadlet units & systemd lifecycle management.</i></p>
       <ul>
-        <li>Direct systemd & quadlet generator integration without Docker/Podman socket.</li>
-        <li>Embedded <b>Wish v2 SSH daemon</b> (<code>quadman serve</code>), fuzzy Command Palette (<code>Ctrl+P</code>), and live journal streaming.</li>
-        <li>Multi-arch production releases (AMD64/ARM64) with 100% automated PTY E2E verification.</li>
+        <li>Direct integration with systemd's generator architecture — <b>zero socket or daemon overhead required</b>.</li>
+        <li>Embedded <b>Wish v2 SSH daemon</b> (<code>quadman serve</code>), fuzzy Command Palette (<code>Ctrl+P</code>), and real-time journalctl streaming.</li>
+        <li>Enterprise-grade quality: 100% automated PTY end-to-end tests (81/81 scenarios pass), race-free concurrency, and multi-arch releases.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Language-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-        <img src="https://img.shields.io/badge/Platform-Podman%20%7C%20systemd-892CA0?style=flat-square" />
-        <img src="https://img.shields.io/badge/Tests-81%2F81%20E2E%20Pass-10b981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/Podman-Quadlet-892CA0?style=flat-square" />
+        <img src="https://img.shields.io/badge/E2E_Tests-81%2F81_Passed-10b981?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/fahmikemal/subcollector">🔍 subcollector</a></h3>
-      <p><i>High-throughput passive and active subdomain intelligence engine.</i></p>
+      <p><i>High-throughput passive and active subdomain intelligence & reconnaissance engine.</i></p>
       <ul>
-        <li>Optimized concurrent worker pools for rapid attack-surface discovery.</li>
-        <li>Designed for security researchers, penetration testers, and threat intelligence operations.</li>
-        <li>Modular OSINT feed aggregation with fast deduplication and filtering.</li>
+        <li>Concurrent worker-pool architecture designed for rapid attack surface discovery.</li>
+        <li>Built for penetration testers and threat intelligence analysts to aggregate multi-source OSINT.</li>
+        <li>High-speed deduplication, wildcard resolution handling, and structured JSON output.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Language-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-        <img src="https://img.shields.io/badge/Domain-Offensive%20Security-ef4444?style=flat-square" />
-        <img src="https://img.shields.io/badge/Pipeline-Recon-6366f1?style=flat-square" />
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/Security-Threat_Recon-ef4444?style=flat-square" />
+        <img src="https://img.shields.io/badge/OSINT-Intelligence-6366f1?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -100,22 +123,20 @@ Linux 6.8.0-hardened x86_64 GNU/Linux
 
 ---
 
-### 💻 Technology Matrix
+### 💻 Technology & Platform Matrix
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/systemd-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security-DevSecOps-dc2626?style=for-the-badge&logo=securityscorecard&logoColor=white" />
-</p>
+<div align="center">
+
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Virtualization & HCI** | `Harvester HCI` · `Proxmox VE` · `OpenShift` · `KVM/QEMU` |
+| **Containers & Orchestration** | `Kubernetes` · `Docker Swarm` · `Podman (Quadlets)` · `Docker` |
+| **CI/CD & GitOps** | `Argo CD` · `Jenkins` · `GitHub Actions` · `Forgejo` · `Gitea` |
+| **Networking & Security** | `Headscale (WireGuard Mesh)` · `Nginx Proxy Manager` · `IBM QRadar SIEM` · `Kali Linux` |
+| **Programming & Scripting** | `Go` · `Bash / Shell` · `Python` · `Rust` · `SQL` |
+| **Operating Systems** | `Red Hat Enterprise Linux (RHEL)` · `Ubuntu Server` · `Debian` |
+
+</div>
 
 ---
 
@@ -129,6 +150,6 @@ Linux 6.8.0-hardened x86_64 GNU/Linux
 ---
 
 <div align="center">
-  <sub>Engineered with precision. Available for systems engineering, platform security, and high-impact infrastructure collaborations.</sub><br>
-  <sub>🌐 <a href="https://kemal.id">kemal.id</a> · 📧 <a href="mailto:fahmi@kemal.id">fahmi@kemal.id</a></sub>
+  <sub>Engineered for reliability, resilience, and security. Open for engineering leadership, DevOps infrastructure, and cybersecurity collaborations.</sub><br>
+  <sub>🌐 <a href="https://kemal.id">kemal.id</a> · 💼 <a href="https://linkedin.com/in/fahmikemal">linkedin.com/in/fahmikemal</a> · 📧 <a href="mailto:fahmi@kemal.id">fahmi@kemal.id</a></sub>
 </div>
