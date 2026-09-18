@@ -36,8 +36,8 @@ Status          : Building reliable, high-availability & secure infrastructure
     <td width="50%" valign="top">
       <h4>☁️ Virtualization & Enterprise Cloud</h4>
       <ul>
-        <li><b>OpenShift $\rightarrow$ Harvester HCI</b>: Architectural migration planning, live workload transitions, hyperconverged storage/compute configuration, and post-migration validation.</li>
-        <li><b>Kubernetes $\rightarrow$ Proxmox VE & Docker Swarm</b>: Migrated containerized workloads into high-availability VM topologies orchestrated via Docker Swarm and Kubernetes clusters.</li>
+        <li><b>OpenShift → Harvester HCI</b>: Architectural migration planning, live workload transitions, hyperconverged storage/compute configuration, and post-migration validation.</li>
+        <li><b>Kubernetes → Proxmox VE & Docker Swarm</b>: Migrated containerized workloads into high-availability VM topologies orchestrated via Docker Swarm and Kubernetes clusters.</li>
         <li><b>Cluster Operations</b>: Proxmox VE cluster tuning, compute virtualization, and automated container lifecycle monitoring.</li>
       </ul>
     </td>
