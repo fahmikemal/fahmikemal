@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Fahmi Kemal
+# Fahmi Kemal
 ### DevOps & Systems Engineer · Cloud Infrastructure · Cybersecurity
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=DevOps+%26+Cloud+Infrastructure+Engineer;Enterprise+Virtualization+%26+Hyperconverged+Systems;GitOps%2C+Private+Mesh+Networking+%26+Security;High-Performance+Open-Source+Systems+Tooling)](https://git.io/typing-svg)
